@@ -3,6 +3,8 @@
 Status: #baby 
 
 Tags: [[x-road]] [[desenvolvimento]] [[ambiente de desenvolvimento]] [[programação]] [[ansible]]
+
+Autor: Chris
 - - -
 # Decorrer
 ## Setup Inicial
