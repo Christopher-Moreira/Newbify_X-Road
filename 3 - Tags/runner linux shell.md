@@ -1,0 +1,1 @@
+"Linux Shell Runners (Bitbucket/GitLab) executam tarefas de CI/CD diretamente na sua infraestrutura Linux sem Docker, economizando custos e permitindo acesso direto ao ambiente. Eles rodam como serviços do sistema (systemd), ideais para compilações complexas ou dependências locais. "

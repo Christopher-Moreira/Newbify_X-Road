@@ -1,0 +1,2 @@
+Plataforma de gestão de conversas e negocios da [[rdstation]], serve para gerir o estado de um negocio, criando funis e trativas templatadas para campanhas e negociações
+"O RD Station CRM **é uma ferramenta de vendas que te ajuda a controlar seu processo comercial e possui integração nativa com o RD Station Marketing**."

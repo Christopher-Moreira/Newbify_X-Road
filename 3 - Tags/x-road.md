@@ -1,0 +1,1 @@
+É uma camada de troca de dados distribuída e gerenciada centralmente entre sistemas de informação.

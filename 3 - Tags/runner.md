@@ -1,0 +1,1 @@
+"um agente ou servidor (físico, virtual, container ou na nuvem) que executa automaticamente as tarefas de CI/CD (compilação, teste, implantação) definidas em um arquivo de configuração de um projeto .yml"

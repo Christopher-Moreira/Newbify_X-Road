@@ -1,0 +1,1 @@
+Framework para desenvolvimento em ReactJS que tem como base um sistema de rotas baseado em pastas. Feito para desenvolvimento agil e eficiênte.

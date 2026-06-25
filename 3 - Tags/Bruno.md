@@ -1,0 +1,1 @@
+Open Source API Client criado como uma alternativa para o Postman (ele é offline)

@@ -1,0 +1,5 @@
+[[X Road - Certification Authority (CA)]]
+
+A autoridade de certificação (AC) emite certificados para Servidores de Segurança (certificados de autenticação) e organizações membros do X-Road (certificados de assinatura). Os certificados de autenticação são usados ​​para proteger a conexão entre dois Servidores de Segurança. Os certificados de assinatura são usados ​​para assinar digitalmente as mensagens enviadas pelos membros do X-Road. Somente certificados emitidos por autoridades de certificação confiáveis, definidas no Servidor Central, podem ser utilizados. 
+
+O Servidor de Segurança verifica a validade dos certificados de assinatura e autenticação por meio do Protocolo de Status de Certificado Online (OCSP). Cada Servidor de Segurança é responsável por consultar as informações de validade de seus certificados e, em seguida, compartilhar essas informações com outros Servidores de Segurança como parte do processo de troca de mensagens. Somente Servidores de Segurança com certificados de assinatura e autenticação válidos podem trocar mensagens com outros Servidores de Segurança.

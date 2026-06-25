@@ -1,0 +1,1 @@
+Caso nao exista table no banco o GORM cria automaticamente

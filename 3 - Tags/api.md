@@ -1,0 +1,1 @@
+ Um conjunto de regras e protocolos que permite que dois ou mais sistemas de software conversem e troquem informações entre si

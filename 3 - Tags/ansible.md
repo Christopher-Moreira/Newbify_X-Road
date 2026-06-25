@@ -1,0 +1,1 @@
+É uma ferramenta de automação de TI e gerenciamento de configuração de código aberto. Ele permite provisionar servidores, implantar aplicações e configurar ambientes inteiros de forma centralizada usando arquivos de texto simples em formato YAML, sem a necessidade de instalar agentes nos computadores gerenciados.

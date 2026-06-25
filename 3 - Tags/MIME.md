@@ -1,0 +1,1 @@
+==é um conjunto de metadados padrão que permite que e-mails e a internet transmitam diferentes tipos de arquivos== (como imagens, áudios e textos formatados) além do texto simples. [[1](https://www.ibm.com/docs/pt-br/i/7.5.0?topic=mail-e-concepts), [2](https://canaltech.com.br/produtos/O-que-e-MIME/)]

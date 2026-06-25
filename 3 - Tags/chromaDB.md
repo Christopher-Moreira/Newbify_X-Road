@@ -1,0 +1,1 @@
+"[[banco de dados]] vetorial de código aberto, desenvolvido especialmente para aplicações com grandes modelos de linguagem." - Wikipedia
